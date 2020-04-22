@@ -1,6 +1,6 @@
 <h1 align='center'>Horiseon Website</h1>
 <h2>Description</h2>
-<p>Horiseon Website Refactoring. The marketing agency wants a codebase that follows accessibility standards
+<p>Horiseon Website Refactoring project: The marketing agency wants a codebase that follows accessibility standards
 so that their site is optimized for search engines. A few examples of the work done: Added atl text to img,fixed search engine link by adding id, and added semantic HTML elements.  
 <a href='https://juanlajara.github.io/coderefactor' target='_blank'>Live Link</a>
 </p>
