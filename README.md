@@ -1,5 +1,3 @@
-# coderefactor
-
 <h1 align='center'>Horiseon Website</h1>
 <h2>Description</h2>
 <p>Horiseon Website Refactoring. The marketing agency wants a codebase that follows accessibility standards
