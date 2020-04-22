@@ -13,7 +13,7 @@ so that their site is optimized for search engines. A few examples of the work d
 <h2>📓 Contributor(s)</h2>
 <p>Dre</p>
 <ul>
-    <li><a href='https://github.com/juanlajara/juanlajara.github.io' target='_blank'>GitHub Home</a></li>
+    <li><a href='https://github.com/juanlajara/juanlajara.github.io' target='_blank'>GitHub</a></li>
     <li><a href='https://www.linkedin.com/in/juan-andres-lajara-179a8442' target='_blank'>LinkedIn</a></li>
     <li>juanlajara001@gmail.com</li>
 </ul>
